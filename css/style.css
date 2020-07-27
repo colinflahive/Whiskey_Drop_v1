@@ -5,9 +5,8 @@ body{
 
 .callout-container {
     height: 100vh;
-
-     
-  background: url("../images/whiskey_drop/https://raw.githubusercontent.com/Code-Institute-Solutions/BootstrappingYourNextBigIdea-BS4/master/04-BeyondBootstrap/01-updating_our_callout/images/whiskey-background.jpg") no-repeat bottom right fixed; 
+ 
+  background: url("../images/whiskey-background.jpg") no-repeat bottom right fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
